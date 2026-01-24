@@ -137,13 +137,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 🧩 Legacy & Foundational Languages
-![BASIC](https://img.shields.io/badge/BASIC-555555?style=for-the-badge)
-![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=visualstudio&logoColor=white)
-![QBasic](https://img.shields.io/badge/QBasic-0047AB?style=for-the-badge)
-
----
-
 ### ⚙️ Systems & Low-Level Programming
 ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-555555?style=for-the-badge)
 ![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
@@ -159,11 +152,6 @@ Here are some ideas to get you started:
 
 ### 📱 Cross-Platform App Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
----
-
-### 🧠 Logic & Declarative Programming
-![Prolog](https://img.shields.io/badge/Prolog-742774?style=for-the-badge)
 
 ---
 
