@@ -2,8 +2,24 @@
   <img src="Offline-Chrome-T-Rex-Runner-Game.gif" height="260" width="100%" />
 </a>
 
-## Hi there 👋
-# Harshvardhan here!!
+## Hi 👋
+
+---
+
+I’m **Harshvardhan Mehta**, a Curious Developer who prefers understanding systems **from "inside out"** and explore new emerging technologies. **I prefer to call myself an "Explorer" rather than claiming to be a "Master" of everything.**
+
+**I don’t limit myself to a "Single Domain" or a "Single Platform"** — **I focus on understanding systems across layers**, from Low-Level Computer Architecture, Assembly, Electronics, and Embedded Systems to High-Level Scalable and Robust Application Platforms, Cloud Infrastructure, Robotics, AI-driven Systems, ML Pipelines and Quantum Computing Concepts.
+
+I've been actively exploring multiple Domains of Computer Science:
+- **Core CS Foundations & Low-Level Architectures**
+- **Full-Stack Web and Mobile Application Platforms**
+- **Embedded Systems, IoT and Robotics**
+- **AI-driven Systems & ML Pipelines**
+- **Quantum Programming**
+
+<p align="center"><b><i>"I value Clarity over Hype, Fundamentals over Shortcuts, and Long-Term Understanding over Quick Wins."</i></b></p>
+
+---
 
 <!--
 **Harshvardhan2023/Harshvardhan2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
