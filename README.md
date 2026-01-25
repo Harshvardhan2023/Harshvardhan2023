@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/Offline-Chrome-T-Rex-Runner-Game.gif" width="100%" />
+</p>
+
 ## Hi there 👋
 # Harshvardhan here!!
 
