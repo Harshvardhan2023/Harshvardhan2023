@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Offline-Chrome-T-Rex-Runner-Game.gif" width="100%" />
+  <img src="Offline-Chrome-T-Rex-Runner-Game.gif" height="250" width="100%" />
 </p>
 
 ## Hi there 👋
