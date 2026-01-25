@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="Offline-Chrome-T-Rex-Runner-Game.gif" height="250" width="100%" />
-</p>
+<a href="https://harshvardhan2023.github.io/TREX-Runner/" target="_blank" align="center">
+  <img src="Offline-Chrome-T-Rex-Runner-Game.gif" height="260" width="100%" />
+</a>
 
 ## Hi there 👋
 # Harshvardhan here!!
