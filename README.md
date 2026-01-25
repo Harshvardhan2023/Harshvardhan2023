@@ -2,11 +2,17 @@
   <img src="Offline-Chrome-T-Rex-Runner-Game.gif" height="260" width="100%" />
 </a>
 
-## Hi 👋
+<br>
+<br>
 
----
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=FFFFFF&lines=HELLO+FOLKS!!;I'M+HARSHVARDHAN+MEHTA" 
+    alt="Typing SVG"
+  />
+</p>
 
-I’m **Harshvardhan Mehta**, a Curious Developer who prefers understanding systems **from "inside out"** and explore new emerging technologies. **I prefer to call myself an "Explorer" rather than claiming to be a "Master" of everything.**
+I’m **Harshvardhan Mehta**, a Curious Developer who prefers understanding systems **from "inside out"** and exploring emerging technologies. **I prefer to call myself an "Explorer" rather than claiming to be a "Master" of everything.**
 
 **I don’t limit myself to a "Single Domain" or a "Single Platform"** — **I focus on understanding systems across layers**, from Low-Level Computer Architecture, Assembly, Electronics, and Embedded Systems to High-Level Scalable and Robust Application Platforms, Cloud Infrastructure, Robotics, AI-driven Systems, ML Pipelines and Quantum Computing Concepts.
 
@@ -99,10 +105,11 @@ Here are some ideas to get you started:
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![BlueJ](https://img.shields.io/badge/BlueJ-2A5DB0?style=for-the-badge)
 ![Scilab](https://img.shields.io/badge/Scilab-EB6A1E?style=for-the-badge)
-![Code::Blocks](https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge)
+![CodeBlocks](https://img.shields.io/badge/CodeBlocks-41AD48?style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-555555?style=for-the-badge)
 ![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
@@ -113,7 +120,13 @@ Here are some ideas to get you started:
 
 </div>
 
-<h1 align="center">💬 Social Links</h1>
+---
+
+<h1 align="center" text="bold"> 📊 GitHub Statistics </h1>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan2023&langs_count=20&hide_progress=true&layout=pie&card_width=320)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshvardhan-mehta-a66118300">
@@ -129,6 +142,14 @@ Here are some ideas to get you started:
   <a href="mailto:harshvardhanmehta2024@gmail.com">
     <img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="50" height="50" alt="Email" />
   </a>
-</p>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan2023&langs_count=20&hide_progress=true&layout=pie&card_width=320)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://www.notion.so/About-Me-2f34152d0aaa80f4a216e303c258186e">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="50" height="50" alt="Notion" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.kaggle.com/harshvardhanmehta17">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="50" height="50" alt="Kaggle" />
+  </a>
+</p>
