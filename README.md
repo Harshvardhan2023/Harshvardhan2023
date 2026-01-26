@@ -107,14 +107,16 @@ I've been actively exploring multiple Domains of Computer Science:
 
 ---
 
-<h1 align="center" text="bold"> 📊 GitHub Statistics </h1>
+<h1 align="center" text="bold"> GitHub Statistics </h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshvardhan2023&theme=default&show_icons=true" alt="Harshvardhan's GitHub Statistics" align="center" />
+  <img src="https://github-readme-trophy-sable.vercel.app/api?username=Harshvardhan2023&theme=flat&column=4" alt="GitHub Trophies" align="center" />
+</div>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan2023&langs_count=20&hide_progress=true&layout=pie&card_width=320)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Trophies](https://github-readme-trophy-939ydwzu5-harshvardhan-mehtas-projects.vercel.app/?username=Harshvardhan2023)](https://github-readme-trophy-bw2p51iwh-harshvardhan-mehtas-projects.vercel.app/?username=Harshvardhan2023&theme=light)
-
-![GitHub Trophies](https://github-readme-trophy-939ydwzu5-harshvardhan-mehtas-projects.vercel.app/api?username=Harshvardhan2023&theme=light&v=1)
-
+<h1 align="center" text="bold"> Top Programming Languages </h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan2023&langs_count=20&hide_progress=true&layout=pie&card_width=320" alt="Top Languages" align="center" />
+</div>
 
 ---
 
