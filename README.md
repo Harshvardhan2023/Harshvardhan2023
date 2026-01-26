@@ -108,7 +108,7 @@ I've been actively exploring multiple Domains of Computer Science:
 ---
 
 <h1 align="center" text="bold"> GitHub Statistics </h1>
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=Harshvardhan2023&theme=default&show_icons=true" alt="Harshvardhan's GitHub Statistics" align="center" />
   <img src="https://github-readme-trophy-sable.vercel.app/api?username=Harshvardhan2023&theme=flat&column=4" alt="GitHub Trophies" align="center" />
 </div>
@@ -120,6 +120,7 @@ I've been actively exploring multiple Domains of Computer Science:
 
 ---
 
+<h1 align="center" text="bold"> 💬 Social Links </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/harshvardhan-mehta-a66118300">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" width="50" height="50" alt="LinkedIn" />
