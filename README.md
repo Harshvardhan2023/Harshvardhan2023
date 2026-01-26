@@ -113,6 +113,9 @@ I've been actively exploring multiple Domains of Computer Science:
 
 [![GitHub Trophies](https://github-readme-trophy-939ydwzu5-harshvardhan-mehtas-projects.vercel.app/?username=Harshvardhan2023)](https://github-readme-trophy-bw2p51iwh-harshvardhan-mehtas-projects.vercel.app/?username=Harshvardhan2023&theme=light)
 
+![GitHub Trophies](https://github-readme-trophy-939ydwzu5-harshvardhan-mehtas-projects.vercel.app/api?username=Harshvardhan2023&theme=light&v=1)
+
+
 ---
 
 <p align="center">
