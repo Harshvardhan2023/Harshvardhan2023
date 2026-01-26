@@ -27,21 +27,6 @@ I've been actively exploring multiple Domains of Computer Science:
 
 ---
 
-<!--
-**Harshvardhan2023/Harshvardhan2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
 <h1 align="center" text="bold"> 💻 Technology Stack </h1>
     
@@ -124,7 +109,9 @@ Here are some ideas to get you started:
 
 <h1 align="center" text="bold"> 📊 GitHub Statistics </h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan2023&langs_count=20&hide_progress=true&layout=pie&card_width=320)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan2023&langs_count=20&hide_progress=true&layout=pie&card_width=320)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Trophies](https://github-readme-trophy-939ydwzu5-harshvardhan-mehtas-projects.vercel.app/?username=Harshvardhan2023)](https://github-readme-trophy-bw2p51iwh-harshvardhan-mehtas-projects.vercel.app/?username=Harshvardhan2023&theme=light)
 
 ---
 
