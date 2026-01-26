@@ -108,10 +108,14 @@ I've been actively exploring multiple Domains of Computer Science:
 ---
 
 <h1 align="center" text="bold"> GitHub Statistics </h1>
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harshvardhan2023&theme=default&show_icons=true" alt="Harshvardhan's GitHub Statistics" align="center" />
+  <br />
+  <br />
   <img src="https://github-readme-trophy-sable.vercel.app/api?username=Harshvardhan2023&theme=flat&column=4" alt="GitHub Trophies" align="center" />
 </div>
+
+---
 
 <h1 align="center" text="bold"> Top Programming Languages </h1>
 <div align="center">
