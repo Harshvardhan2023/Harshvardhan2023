@@ -7,11 +7,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=FFFFFF&lines=HELLO+FOLKS!!;I'M+HARSHVARDHAN+MEHTA#gh-dark-mode-only" 
-    alt="Typing SVG"
-  />
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=000000&lines=HELLO+FOLKS!!;I'M+HARSHVARDHAN+MEHTA#gh-light-mode-only" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=2F81F7&lines=HELLO+FOLKS!!;I'M+HARSHVARDHAN+MEHTA" 
     alt="Typing SVG"
   />
 </p>
