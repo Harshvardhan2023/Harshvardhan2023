@@ -7,7 +7,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=2F81F7&lines=HELLO+FOLKS!!;I'M+HARSHVARDHAN+MEHTA" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=2F81F7&weight=700&center=true&lines=Hello+Folks!!;I'M+HARSHVARDHAN+MEHTA" 
     alt="Typing SVG"
   />
 </p>
