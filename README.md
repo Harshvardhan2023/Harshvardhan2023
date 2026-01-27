@@ -6,10 +6,14 @@
 <br>
 
 <p align="center">
-   <img 
-     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=FFFFFF&lines=HELLO+FOLKS!!;I'M+HARSHVARDHAN+MEHTA" 
-     alt="Typing SVG"
-   />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=FFFFFF&lines=HELLO+FOLKS!!;I'M+HARSHVARDHAN+MEHTA#gh-dark-mode-only" 
+    alt="Typing SVG"
+  />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=000000&lines=HELLO+FOLKS!!;I'M+HARSHVARDHAN+MEHTA#gh-light-mode-only" 
+    alt="Typing SVG"
+  />
 </p>
 
 I’m **Harshvardhan Mehta**, a Curious Developer who prefers understanding systems **from "inside out"** and exploring emerging technologies. **I prefer to call myself an "Explorer" rather than claiming to be a "Master" of everything.**
