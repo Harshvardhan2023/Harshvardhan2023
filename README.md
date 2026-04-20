@@ -110,11 +110,11 @@ I've been actively exploring multiple Domains of Computer Science:
   <tr>
     <td align="center" valign="middle" style="border: 3px solid #8B949E; padding: 20px;">
       <h1 align="center">GitHub Statistics</h1>
-      <img src="https://github-readme-stats.vercel.app/api?username=Harshvardhan2023&theme=default&show_icons=true" alt="Harshvardhan's GitHub Statistics" />
+      <img src="https://github-readme-stats-phi-one-71.vercel.app/api?username=Harshvardhan2023&theme=default&show_icons=true" alt="Harshvardhan's GitHub Statistics" />
     </td>
     <td align="center" valign="top" rowspan="2" style="border: 3px solid #8B949E; padding: 20px; margin-top: 0; margin-bottom: 0">
       <h1 align="center">Programming <br> Language <br> Statistics </h1>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan2023&langs_count=20&hide_progress=true&layout=pie&card_width=320" alt="Top Languages" />
+      <img src="https://github-readme-stats-phi-one-71.vercel.app/api/top-langs/?username=Harshvardhan2023&langs_count=20&hide_progress=true&layout=pie&card_width=320" alt="Top Languages" />
     </td>
   </tr>
   <tr>
