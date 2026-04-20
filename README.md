@@ -6,10 +6,7 @@
 <br>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=2F81F7&weight=700&center=true&lines=Hello+Folks!!;I'M+HARSHVARDHAN+MEHTA" 
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=2F81F7&weight=700&center=true&lines=Hello+Folks!!;I'M+HARSHVARDHAN+MEHTA" alt="Typing SVG" />
 </p>
 
 I’m **Harshvardhan Mehta**, a Curious Developer who prefers understanding systems **from "inside out"** and exploring emerging technologies. **I prefer to call myself an "Explorer" rather than claiming to be a "Master" of everything.**
@@ -107,46 +104,58 @@ I've been actively exploring multiple Domains of Computer Science:
 
 ---
 
-<h1 align="center" text="bold"> GitHub Statistics </h1>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshvardhan2023&theme=default&show_icons=true" alt="Harshvardhan's GitHub Statistics" align="center" />
-  <br />
-  <br />
-  <img src="https://github-readme-trophy-sable.vercel.app/api?username=Harshvardhan2023&theme=flat&column=4" alt="GitHub Trophies" align="center" />
-</div>
+<h1 align="center"> GitHub Statistics </h1>
 
----
-
-<h1 align="center" text="bold"> Top Programming Languages </h1>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan2023&langs_count=20&hide_progress=true&layout=pie&card_width=320" alt="Top Languages" align="center" />
-</div>
+<table align="center" style="border-collapse: collapse; border: 3px solid #8B949E;" cellpadding="15">
+  <tr>
+    <td align="center" valign="middle" style="border: 3px solid #8B949E; padding: 20px;">
+      <h1 align="center">GitHub Statistics</h1>
+      <img src="https://github-readme-stats.vercel.app/api?username=Harshvardhan2023&theme=default&show_icons=true" alt="Harshvardhan's GitHub Statistics" />
+    </td>
+    <td align="center" valign="top" rowspan="2" style="border: 3px solid #8B949E; padding: 20px; margin-top: 0; margin-bottom: 0">
+      <h1 align="center">Programming <br> Language <br> Statistics </h1>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan2023&langs_count=20&hide_progress=true&layout=pie&card_width=320" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" style="border: 3px solid #8B949E; padding: 20px;">
+      <h1 align="center">GitHub Trophies</h1>
+      <img src="https://github-readme-trophy-sable.vercel.app/api?username=Harshvardhan2023&theme=flat&column=4" alt="GitHub Trophies" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 <h1 align="center" text="bold"> 💬 Social Links </h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshvardhan-mehta-a66118300">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" width="50" height="50" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://discord.com/users/851241449168306196">
-    <img src="https://user-images.githubusercontent.com/29790345/184599637-8ba21112-adc2-400a-8931-b071b74fb2a7.png?raw=true" width="50" height="50" alt="Discord" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:harshvardhanmehta2024@gmail.com">
-    <img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="50" height="50" alt="Email" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.notion.so/About-Me-2f34152d0aaa80f4a216e303c258186e">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="50" height="50" alt="Notion" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.kaggle.com/harshvardhanmehta17">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="50" height="50" alt="Kaggle" />
-  </a>
-</p>
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/harshvardhan-mehta-a66118300">
+          <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" width="60" height="60" alt="LinkedIn" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://discord.com/users/851241449168306196">
+          <img src="https://user-images.githubusercontent.com/29790345/184599637-8ba21112-adc2-400a-8931-b071b74fb2a7.png?raw=true" width="60" height="60" alt="Discord" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:harshvardhanmehta2024@gmail.com">
+          <img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="60" height="60" alt="Email" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.notion.so/About-Me-2f34152d0aaa80f4a216e303c258186e">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="60" height="60" alt="Notion" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.kaggle.com/harshvardhanmehta17">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="60" height="60" alt="Kaggle" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
