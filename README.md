@@ -104,7 +104,7 @@ I've been actively exploring multiple Domains of Computer Science:
 
 ---
 
-<h1 align="center"> GitHub Statistics </h1>
+<h1 align="center"> 📊 GitHub Statistics </h1>
 
 <table align="center" style="border-collapse: collapse; border: 3px solid #8B949E;" cellpadding="15">
   <tr>
@@ -127,7 +127,7 @@ I've been actively exploring multiple Domains of Computer Science:
 
 ---
 
-<h1 align="center"> GitHub Profile 3D Contributions Graph </h1>
+<h1 align="center"> 🗺️ GitHub Profile 3D Contributions Graph </h1>
 
 <p align="center" >
 	<picture>
