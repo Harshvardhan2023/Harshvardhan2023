@@ -127,6 +127,18 @@ I've been actively exploring multiple Domains of Computer Science:
 
 ---
 
+<h1 align="center"> GitHub Profile 3D Contributions Graph </h1>
+
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshvardhan2023/Harshvardhan2023/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshvardhan2023/Harshvardhan2023/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Harshvardhan2023/Harshvardhan2023/output-3d-contrib/day.svg" />
+	</picture>
+</p>
+
+---
+
 <h1 align="center" text="bold"> 💬 Social Links </h1>
 <table align="center">
   <tbody>
