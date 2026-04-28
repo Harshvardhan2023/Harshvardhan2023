@@ -120,7 +120,7 @@ I've been actively exploring multiple Domains of Computer Science:
   <tr>
     <td align="center" valign="middle" style="border: 3px solid #8B949E; padding: 20px;">
       <h1 align="center">GitHub Trophies</h1>
-      <img src="https://github-profile-trophy-qzpcdxcml-harshvardhan-mehtas-projects.vercel.app/?username=Harshvardhan2023&theme=light&column=4&title=-Reviews" alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy-ecru-five.vercel.app/?username=Harshvardhan2023&theme=light&column=4&title=-Reviews" alt="GitHub Trophies" />
     </td>
   </tr>
 </table>
